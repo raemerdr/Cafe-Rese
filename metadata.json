@@ -1,0 +1,7 @@
+{
+  "name": "Cafe Resé Official Website",
+  "description": "A modern, warm, and inviting single-page application for Cafe Resé, a premier coffee shop in Malolos, Bulacan, featuring menu highlights, customer reviews, and location details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
